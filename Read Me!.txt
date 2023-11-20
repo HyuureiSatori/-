@@ -1,0 +1,2 @@
+Untuk memperjelas,
+File Utama atau "HomePage" adalah file yang bernama "DaProject.HTML". Semoga Membantu dan tidak terlalu membingungkan!
